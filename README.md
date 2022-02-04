@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B4RteQPl
-- 👀 my goal is to learn everything about the good and clean software architecture.
-- 🌱 I’m currently learning how to avoid writing legacy code which is a chanllange for all dev's all the time.
-- 💞️ I Love Javascript and PHP languages.
-- 😎 Laravel and Vue is my faviorite frameworks. 
+- 👀 my goal is to learn everything about good and clean software architecture
+- 🌱 I’m currently learning how to avoid writing legacy code which is a challenge for all developers
+- 💞️ I Love Javascript and PHP languages
+- 😎 Laravel and Vue is my favorite frameworks
 - 🕵️‍♂️ Ask for more :)
